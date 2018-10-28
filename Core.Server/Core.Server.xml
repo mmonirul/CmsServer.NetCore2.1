@@ -1,0 +1,10 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>Core.Server</name>
+    </assembly>
+    <members>
+        <!-- Badly formed XML comment ignored for member "M:Core.Server.Controllers.ProductsController.PutProduct(System.Int32,Core.Server.Dal.Models.Product)" -->
+        <!-- Badly formed XML comment ignored for member "M:Core.Server.Controllers.ProductsController.DeleteProduct(System.Int32)" -->
+    </members>
+</doc>
